@@ -433,6 +433,9 @@ input:focus, textarea:focus {
   .sexo label{
     display: block;
   }
+  .formulario label{
+    font-size: 20px;
+  }
 
   .intereses label {
     display: block;
